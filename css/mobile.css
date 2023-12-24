@@ -1,0 +1,37 @@
+@media (max-width: 480px) {
+    /* section1 */
+    .app-section1 {
+        padding-inline: 24px;
+    }
+
+    .app-section1-header {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    /* section2 */
+    .app-section2-text-container-header {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    
+    .app-section2-text-container-text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    
+    /* footer */
+    footer {
+        align-items: center;
+    }
+
+    .app-footer-rightside-navigation {
+        width: 33%;
+        text-align: center;
+    }
+
+    .app-footer-rightside {
+        column-gap: 10px;
+        width: 100%;
+    }
+}
