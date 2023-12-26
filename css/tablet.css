@@ -4,7 +4,16 @@
         margin-inline: 24px;
     }
 
+    /* section1 */
+    .app-section1 {
+        height: 320px;
+    }
+
     /* section2 */
+    .app-section2-image-container {
+        height: 320px;
+    }
+
     .app-section2-text-container {
         flex-direction: column;
         text-align: center;
